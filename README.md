@@ -33,12 +33,6 @@ Anuradha
 
 Chakrika
 
-📂 Project Structure
-/src
-  ├── GroceryItem.java
-  ├── GroceryListManager.java
-  └── Utils.java
-
 ▶️ How to Run
 
 Download or clone the project
