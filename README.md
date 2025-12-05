@@ -27,7 +27,7 @@ Yashwant
 
 Gatik
 
-Deepshikha
+Deepsikha
 
 Anuradha
 
